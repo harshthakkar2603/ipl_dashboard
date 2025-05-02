@@ -1,0 +1,1354 @@
+{
+  "season": "IPL 2008",
+  "matches": [
+    {
+      "match_id": 1422119,
+      "date": "2024-03-22",
+      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "teams": {
+        "home": "Royal Challengers Bengaluru",
+        "away": "Chennai Super Kings"
+      },
+      "toss": {
+        "winner": "Royal Challengers Bengaluru",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Chennai Super Kings",
+        "win_by_runs": 0,
+        "win_by_wickets": 6
+      },
+      "player_of_match": "Mustafizur Rahman"
+    },
+    {
+      "match_id": 1422120,
+      "date": "2024-03-23",
+      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+      "teams": {
+        "home": "Delhi Capitals",
+        "away": "Punjab Kings"
+      },
+      "toss": {
+        "winner": "Punjab Kings",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Punjab Kings",
+        "win_by_runs": 0,
+        "win_by_wickets": 4
+      },
+      "player_of_match": "SM Curran"
+    },
+    {
+      "match_id": 1422121,
+      "date": "2024-03-23",
+      "venue": "Eden Gardens, Kolkata",
+      "teams": {
+        "home": "Kolkata Knight Riders",
+        "away": "Sunrisers Hyderabad"
+      },
+      "toss": {
+        "winner": "Sunrisers Hyderabad",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Kolkata Knight Riders",
+        "win_by_runs": 4,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "AD Russell"
+    },
+    {
+      "match_id": 1422122,
+      "date": "2024-03-24",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "teams": {
+        "home": "Rajasthan Royals",
+        "away": "Lucknow Super Giants"
+      },
+      "toss": {
+        "winner": "Rajasthan Royals",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Rajasthan Royals",
+        "win_by_runs": 20,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "SV Samson"
+    },
+    {
+      "match_id": 1422123,
+      "date": "2024-03-24",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "teams": {
+        "home": "Gujarat Titans",
+        "away": "Mumbai Indians"
+      },
+      "toss": {
+        "winner": "Mumbai Indians",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Gujarat Titans",
+        "win_by_runs": 6,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "B Sai Sudharsan"
+    },
+    {
+      "match_id": 1422124,
+      "date": "2024-03-25",
+      "venue": "M Chinnaswamy Stadium, Bengaluru",
+      "teams": {
+        "home": "Punjab Kings",
+        "away": "Royal Challengers Bengaluru"
+      },
+      "toss": {
+        "winner": "Royal Challengers Bengaluru",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Royal Challengers Bengaluru",
+        "win_by_runs": 0,
+        "win_by_wickets": 4
+      },
+      "player_of_match": "V Kohli"
+    },
+    {
+      "match_id": 1422125,
+      "date": "2024-03-26",
+      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "teams": {
+        "home": "Chennai Super Kings",
+        "away": "Gujarat Titans"
+      },
+      "toss": {
+        "winner": "Gujarat Titans",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Chennai Super Kings",
+        "win_by_runs": 63,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "S Dube"
+    },
+    {
+      "match_id": 1422126,
+      "date": "2024-03-27",
+      "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+      "teams": {
+        "home": "Sunrisers Hyderabad",
+        "away": "Mumbai Indians"
+      },
+      "toss": {
+        "winner": "Mumbai Indians",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Sunrisers Hyderabad",
+        "win_by_runs": 31,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "Abhishek Sharma"
+    },
+    {
+      "match_id": 1422127,
+      "date": "2024-03-28",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "teams": {
+        "home": "Rajasthan Royals",
+        "away": "Delhi Capitals"
+      },
+      "toss": {
+        "winner": "Delhi Capitals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Rajasthan Royals",
+        "win_by_runs": 12,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "R Parag"
+    },
+    {
+      "match_id": 1422128,
+      "date": "2024-03-29",
+      "venue": "M Chinnaswamy Stadium, Bengaluru",
+      "teams": {
+        "home": "Royal Challengers Bengaluru",
+        "away": "Kolkata Knight Riders"
+      },
+      "toss": {
+        "winner": "Kolkata Knight Riders",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Kolkata Knight Riders",
+        "win_by_runs": 0,
+        "win_by_wickets": 7
+      },
+      "player_of_match": "SP Narine"
+    },
+    {
+      "match_id": 1422129,
+      "date": "2024-03-30",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "teams": {
+        "home": "Lucknow Super Giants",
+        "away": "Punjab Kings"
+      },
+      "toss": {
+        "winner": "Lucknow Super Giants",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Lucknow Super Giants",
+        "win_by_runs": 21,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "MP Yadav"
+    },
+    {
+      "match_id": 1422130,
+      "date": "2024-03-31",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "teams": {
+        "home": "Sunrisers Hyderabad",
+        "away": "Gujarat Titans"
+      },
+      "toss": {
+        "winner": "Sunrisers Hyderabad",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Gujarat Titans",
+        "win_by_runs": 0,
+        "win_by_wickets": 7
+      },
+      "player_of_match": "MM Sharma"
+    },
+    {
+      "match_id": 1422131,
+      "date": "2024-03-31",
+      "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+      "teams": {
+        "home": "Delhi Capitals",
+        "away": "Chennai Super Kings"
+      },
+      "toss": {
+        "winner": "Delhi Capitals",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Delhi Capitals",
+        "win_by_runs": 20,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "KK Ahmed"
+    },
+    {
+      "match_id": 1422132,
+      "date": "2024-04-01",
+      "venue": "Wankhede Stadium, Mumbai",
+      "teams": {
+        "home": "Mumbai Indians",
+        "away": "Rajasthan Royals"
+      },
+      "toss": {
+        "winner": "Rajasthan Royals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Rajasthan Royals",
+        "win_by_runs": 0,
+        "win_by_wickets": 6
+      },
+      "player_of_match": "TA Boult"
+    },
+    {
+      "match_id": 1422133,
+      "date": "2024-04-02",
+      "venue": "M Chinnaswamy Stadium, Bengaluru",
+      "teams": {
+        "home": "Lucknow Super Giants",
+        "away": "Royal Challengers Bengaluru"
+      },
+      "toss": {
+        "winner": "Royal Challengers Bengaluru",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Lucknow Super Giants",
+        "win_by_runs": 28,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "MP Yadav"
+    },
+    {
+      "match_id": 1422134,
+      "date": "2024-04-03",
+      "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+      "teams": {
+        "home": "Kolkata Knight Riders",
+        "away": "Delhi Capitals"
+      },
+      "toss": {
+        "winner": "Kolkata Knight Riders",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Kolkata Knight Riders",
+        "win_by_runs": 106,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "SP Narine"
+    },
+    {
+      "match_id": 1422135,
+      "date": "2024-04-04",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "teams": {
+        "home": "Gujarat Titans",
+        "away": "Punjab Kings"
+      },
+      "toss": {
+        "winner": "Punjab Kings",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Punjab Kings",
+        "win_by_runs": 0,
+        "win_by_wickets": 3
+      },
+      "player_of_match": "Shashank Singh"
+    },
+    {
+      "match_id": 1422136,
+      "date": "2024-04-05",
+      "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+      "teams": {
+        "home": "Chennai Super Kings",
+        "away": "Sunrisers Hyderabad"
+      },
+      "toss": {
+        "winner": "Sunrisers Hyderabad",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Sunrisers Hyderabad",
+        "win_by_runs": 0,
+        "win_by_wickets": 6
+      },
+      "player_of_match": "Abhishek Sharma"
+    },
+    {
+      "match_id": 1422137,
+      "date": "2024-04-06",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "teams": {
+        "home": "Royal Challengers Bengaluru",
+        "away": "Rajasthan Royals"
+      },
+      "toss": {
+        "winner": "Rajasthan Royals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Rajasthan Royals",
+        "win_by_runs": 0,
+        "win_by_wickets": 6
+      },
+      "player_of_match": "JC Buttler"
+    },
+    {
+      "match_id": 1422138,
+      "date": "2024-04-07",
+      "venue": "Wankhede Stadium, Mumbai",
+      "teams": {
+        "home": "Mumbai Indians",
+        "away": "Delhi Capitals"
+      },
+      "toss": {
+        "winner": "Delhi Capitals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Mumbai Indians",
+        "win_by_runs": 29,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "R Shepherd"
+    },
+    {
+      "match_id": 1422139,
+      "date": "2024-04-07",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "teams": {
+        "home": "Lucknow Super Giants",
+        "away": "Gujarat Titans"
+      },
+      "toss": {
+        "winner": "Lucknow Super Giants",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Lucknow Super Giants",
+        "win_by_runs": 33,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "Yash Thakur"
+    },
+    {
+      "match_id": 1426260,
+      "date": "2024-04-08",
+      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "teams": {
+        "home": "Kolkata Knight Riders",
+        "away": "Chennai Super Kings"
+      },
+      "toss": {
+        "winner": "Chennai Super Kings",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Chennai Super Kings",
+        "win_by_runs": 0,
+        "win_by_wickets": 7
+      },
+      "player_of_match": "RA Jadeja"
+    },
+    {
+      "match_id": 1426261,
+      "date": "2024-04-09",
+      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+      "teams": {
+        "home": "Sunrisers Hyderabad",
+        "away": "Punjab Kings"
+      },
+      "toss": {
+        "winner": "Punjab Kings",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Sunrisers Hyderabad",
+        "win_by_runs": 2,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "Nithish Kumar Reddy"
+    },
+    {
+      "match_id": 1426262,
+      "date": "2024-04-10",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "teams": {
+        "home": "Rajasthan Royals",
+        "away": "Gujarat Titans"
+      },
+      "toss": {
+        "winner": "Gujarat Titans",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Gujarat Titans",
+        "win_by_runs": 0,
+        "win_by_wickets": 3
+      },
+      "player_of_match": "Rashid Khan"
+    },
+    {
+      "match_id": 1426263,
+      "date": "2024-04-11",
+      "venue": "Wankhede Stadium, Mumbai",
+      "teams": {
+        "home": "Royal Challengers Bengaluru",
+        "away": "Mumbai Indians"
+      },
+      "toss": {
+        "winner": "Mumbai Indians",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Mumbai Indians",
+        "win_by_runs": 0,
+        "win_by_wickets": 7
+      },
+      "player_of_match": "JJ Bumrah"
+    },
+    {
+      "match_id": 1426264,
+      "date": "2024-04-12",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "teams": {
+        "home": "Lucknow Super Giants",
+        "away": "Delhi Capitals"
+      },
+      "toss": {
+        "winner": "Lucknow Super Giants",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Delhi Capitals",
+        "win_by_runs": 0,
+        "win_by_wickets": 6
+      },
+      "player_of_match": "Kuldeep Yadav"
+    },
+    {
+      "match_id": 1426265,
+      "date": "2024-04-13",
+      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+      "teams": {
+        "home": "Punjab Kings",
+        "away": "Rajasthan Royals"
+      },
+      "toss": {
+        "winner": "Rajasthan Royals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Rajasthan Royals",
+        "win_by_runs": 0,
+        "win_by_wickets": 3
+      },
+      "player_of_match": "SO Hetmyer"
+    },
+    {
+      "match_id": 1426266,
+      "date": "2024-04-14",
+      "venue": "Eden Gardens, Kolkata",
+      "teams": {
+        "home": "Lucknow Super Giants",
+        "away": "Kolkata Knight Riders"
+      },
+      "toss": {
+        "winner": "Kolkata Knight Riders",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Kolkata Knight Riders",
+        "win_by_runs": 0,
+        "win_by_wickets": 8
+      },
+      "player_of_match": "PD Salt"
+    },
+    {
+      "match_id": 1426267,
+      "date": "2024-04-14",
+      "venue": "Wankhede Stadium, Mumbai",
+      "teams": {
+        "home": "Chennai Super Kings",
+        "away": "Mumbai Indians"
+      },
+      "toss": {
+        "winner": "Mumbai Indians",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Chennai Super Kings",
+        "win_by_runs": 20,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "M Pathirana"
+    },
+    {
+      "match_id": 1426268,
+      "date": "2024-04-15",
+      "venue": "M Chinnaswamy Stadium, Bengaluru",
+      "teams": {
+        "home": "Sunrisers Hyderabad",
+        "away": "Royal Challengers Bengaluru"
+      },
+      "toss": {
+        "winner": "Royal Challengers Bengaluru",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Sunrisers Hyderabad",
+        "win_by_runs": 25,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "TM Head"
+    },
+    {
+      "match_id": 1426269,
+      "date": "2024-04-16",
+      "venue": "Eden Gardens, Kolkata",
+      "teams": {
+        "home": "Kolkata Knight Riders",
+        "away": "Rajasthan Royals"
+      },
+      "toss": {
+        "winner": "Rajasthan Royals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Rajasthan Royals",
+        "win_by_runs": 0,
+        "win_by_wickets": 2
+      },
+      "player_of_match": "JC Buttler"
+    },
+    {
+      "match_id": 1426270,
+      "date": "2024-04-17",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "teams": {
+        "home": "Gujarat Titans",
+        "away": "Delhi Capitals"
+      },
+      "toss": {
+        "winner": "Delhi Capitals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Delhi Capitals",
+        "win_by_runs": 0,
+        "win_by_wickets": 6
+      },
+      "player_of_match": "RR Pant"
+    },
+    {
+      "match_id": 1426271,
+      "date": "2024-04-18",
+      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+      "teams": {
+        "home": "Mumbai Indians",
+        "away": "Punjab Kings"
+      },
+      "toss": {
+        "winner": "Punjab Kings",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Mumbai Indians",
+        "win_by_runs": 9,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "JJ Bumrah"
+    },
+    {
+      "match_id": 1426272,
+      "date": "2024-04-19",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "teams": {
+        "home": "Chennai Super Kings",
+        "away": "Lucknow Super Giants"
+      },
+      "toss": {
+        "winner": "Lucknow Super Giants",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Lucknow Super Giants",
+        "win_by_runs": 0,
+        "win_by_wickets": 8
+      },
+      "player_of_match": "KL Rahul"
+    },
+    {
+      "match_id": 1426273,
+      "date": "2024-04-20",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "teams": {
+        "home": "Sunrisers Hyderabad",
+        "away": "Delhi Capitals"
+      },
+      "toss": {
+        "winner": "Delhi Capitals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Sunrisers Hyderabad",
+        "win_by_runs": 67,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "TM Head"
+    },
+    {
+      "match_id": 1426274,
+      "date": "2024-04-21",
+      "venue": "Eden Gardens, Kolkata",
+      "teams": {
+        "home": "Kolkata Knight Riders",
+        "away": "Royal Challengers Bengaluru"
+      },
+      "toss": {
+        "winner": "Royal Challengers Bengaluru",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Kolkata Knight Riders",
+        "win_by_runs": 1,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "AD Russell"
+    },
+    {
+      "match_id": 1426275,
+      "date": "2024-04-21",
+      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+      "teams": {
+        "home": "Punjab Kings",
+        "away": "Gujarat Titans"
+      },
+      "toss": {
+        "winner": "Punjab Kings",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Gujarat Titans",
+        "win_by_runs": 0,
+        "win_by_wickets": 3
+      },
+      "player_of_match": "R Sai Kishore"
+    },
+    {
+      "match_id": 1426276,
+      "date": "2024-04-22",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "teams": {
+        "home": "Mumbai Indians",
+        "away": "Rajasthan Royals"
+      },
+      "toss": {
+        "winner": "Mumbai Indians",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Rajasthan Royals",
+        "win_by_runs": 0,
+        "win_by_wickets": 9
+      },
+      "player_of_match": "Sandeep Sharma"
+    },
+    {
+      "match_id": 1426277,
+      "date": "2024-04-23",
+      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "teams": {
+        "home": "Chennai Super Kings",
+        "away": "Lucknow Super Giants"
+      },
+      "toss": {
+        "winner": "Lucknow Super Giants",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Lucknow Super Giants",
+        "win_by_runs": 0,
+        "win_by_wickets": 6
+      },
+      "player_of_match": "MP Stoinis"
+    },
+    {
+      "match_id": 1426278,
+      "date": "2024-04-24",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "teams": {
+        "home": "Delhi Capitals",
+        "away": "Gujarat Titans"
+      },
+      "toss": {
+        "winner": "Gujarat Titans",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Delhi Capitals",
+        "win_by_runs": 4,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "RR Pant"
+    },
+    {
+      "match_id": 1426279,
+      "date": "2024-04-25",
+      "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+      "teams": {
+        "home": "Royal Challengers Bengaluru",
+        "away": "Sunrisers Hyderabad"
+      },
+      "toss": {
+        "winner": "Royal Challengers Bengaluru",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Royal Challengers Bengaluru",
+        "win_by_runs": 35,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "RM Patidar"
+    },
+    {
+      "match_id": 1426280,
+      "date": "2024-04-26",
+      "venue": "Eden Gardens, Kolkata",
+      "teams": {
+        "home": "Kolkata Knight Riders",
+        "away": "Punjab Kings"
+      },
+      "toss": {
+        "winner": "Punjab Kings",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Punjab Kings",
+        "win_by_runs": 0,
+        "win_by_wickets": 8
+      },
+      "player_of_match": "JM Bairstow"
+    },
+    {
+      "match_id": 1426281,
+      "date": "2024-04-27",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "teams": {
+        "home": "Delhi Capitals",
+        "away": "Mumbai Indians"
+      },
+      "toss": {
+        "winner": "Mumbai Indians",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Delhi Capitals",
+        "win_by_runs": 10,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "J Fraser-McGurk"
+    },
+    {
+      "match_id": 1426282,
+      "date": "2024-04-27",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "teams": {
+        "home": "Lucknow Super Giants",
+        "away": "Rajasthan Royals"
+      },
+      "toss": {
+        "winner": "Rajasthan Royals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Rajasthan Royals",
+        "win_by_runs": 0,
+        "win_by_wickets": 7
+      },
+      "player_of_match": "SV Samson"
+    },
+    {
+      "match_id": 1426283,
+      "date": "2024-04-28",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "teams": {
+        "home": "Gujarat Titans",
+        "away": "Royal Challengers Bengaluru"
+      },
+      "toss": {
+        "winner": "Royal Challengers Bengaluru",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Royal Challengers Bengaluru",
+        "win_by_runs": 0,
+        "win_by_wickets": 9
+      },
+      "player_of_match": "WG Jacks"
+    },
+    {
+      "match_id": 1426284,
+      "date": "2024-04-28",
+      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "teams": {
+        "home": "Chennai Super Kings",
+        "away": "Sunrisers Hyderabad"
+      },
+      "toss": {
+        "winner": "Sunrisers Hyderabad",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Chennai Super Kings",
+        "win_by_runs": 78,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "RD Gaikwad"
+    },
+    {
+      "match_id": 1426285,
+      "date": "2024-04-29",
+      "venue": "Eden Gardens, Kolkata",
+      "teams": {
+        "home": "Delhi Capitals",
+        "away": "Kolkata Knight Riders"
+      },
+      "toss": {
+        "winner": "Delhi Capitals",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Kolkata Knight Riders",
+        "win_by_runs": 0,
+        "win_by_wickets": 7
+      },
+      "player_of_match": "CV Varun"
+    },
+    {
+      "match_id": 1426286,
+      "date": "2024-04-30",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "teams": {
+        "home": "Mumbai Indians",
+        "away": "Lucknow Super Giants"
+      },
+      "toss": {
+        "winner": "Lucknow Super Giants",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Lucknow Super Giants",
+        "win_by_runs": 0,
+        "win_by_wickets": 4
+      },
+      "player_of_match": "MP Stoinis"
+    },
+    {
+      "match_id": 1426287,
+      "date": "2024-05-01",
+      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "teams": {
+        "home": "Chennai Super Kings",
+        "away": "Punjab Kings"
+      },
+      "toss": {
+        "winner": "Punjab Kings",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Punjab Kings",
+        "win_by_runs": 0,
+        "win_by_wickets": 7
+      },
+      "player_of_match": "Harpreet Brar"
+    },
+    {
+      "match_id": 1426288,
+      "date": "2024-05-02",
+      "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+      "teams": {
+        "home": "Sunrisers Hyderabad",
+        "away": "Rajasthan Royals"
+      },
+      "toss": {
+        "winner": "Sunrisers Hyderabad",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Sunrisers Hyderabad",
+        "win_by_runs": 1,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "B Kumar"
+    },
+    {
+      "match_id": 1426289,
+      "date": "2024-05-03",
+      "venue": "Wankhede Stadium, Mumbai",
+      "teams": {
+        "home": "Kolkata Knight Riders",
+        "away": "Mumbai Indians"
+      },
+      "toss": {
+        "winner": "Mumbai Indians",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Kolkata Knight Riders",
+        "win_by_runs": 24,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "VR Iyer"
+    },
+    {
+      "match_id": 1426290,
+      "date": "2024-05-04",
+      "venue": "M Chinnaswamy Stadium, Bengaluru",
+      "teams": {
+        "home": "Gujarat Titans",
+        "away": "Royal Challengers Bengaluru"
+      },
+      "toss": {
+        "winner": "Royal Challengers Bengaluru",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Royal Challengers Bengaluru",
+        "win_by_runs": 0,
+        "win_by_wickets": 4
+      },
+      "player_of_match": "Mohammed Siraj"
+    },
+    {
+      "match_id": 1426291,
+      "date": "2024-05-05",
+      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+      "teams": {
+        "home": "Chennai Super Kings",
+        "away": "Punjab Kings"
+      },
+      "toss": {
+        "winner": "Punjab Kings",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Chennai Super Kings",
+        "win_by_runs": 28,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "RA Jadeja"
+    },
+    {
+      "match_id": 1426292,
+      "date": "2024-05-05",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "teams": {
+        "home": "Kolkata Knight Riders",
+        "away": "Lucknow Super Giants"
+      },
+      "toss": {
+        "winner": "Lucknow Super Giants",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Kolkata Knight Riders",
+        "win_by_runs": 98,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "SP Narine"
+    },
+    {
+      "match_id": 1426293,
+      "date": "2024-05-06",
+      "venue": "Wankhede Stadium, Mumbai",
+      "teams": {
+        "home": "Sunrisers Hyderabad",
+        "away": "Mumbai Indians"
+      },
+      "toss": {
+        "winner": "Mumbai Indians",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Mumbai Indians",
+        "win_by_runs": 0,
+        "win_by_wickets": 7
+      },
+      "player_of_match": "SA Yadav"
+    },
+    {
+      "match_id": 1426294,
+      "date": "2024-05-07",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "teams": {
+        "home": "Delhi Capitals",
+        "away": "Rajasthan Royals"
+      },
+      "toss": {
+        "winner": "Rajasthan Royals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Delhi Capitals",
+        "win_by_runs": 20,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "Kuldeep Yadav"
+    },
+    {
+      "match_id": 1426295,
+      "date": "2024-05-08",
+      "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+      "teams": {
+        "home": "Lucknow Super Giants",
+        "away": "Sunrisers Hyderabad"
+      },
+      "toss": {
+        "winner": "Lucknow Super Giants",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Sunrisers Hyderabad",
+        "win_by_runs": 0,
+        "win_by_wickets": 10
+      },
+      "player_of_match": "TM Head"
+    },
+    {
+      "match_id": 1426296,
+      "date": "2024-05-09",
+      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+      "teams": {
+        "home": "Royal Challengers Bengaluru",
+        "away": "Punjab Kings"
+      },
+      "toss": {
+        "winner": "Punjab Kings",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Royal Challengers Bengaluru",
+        "win_by_runs": 60,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "V Kohli"
+    },
+    {
+      "match_id": 1426297,
+      "date": "2024-05-10",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "teams": {
+        "home": "Gujarat Titans",
+        "away": "Chennai Super Kings"
+      },
+      "toss": {
+        "winner": "Chennai Super Kings",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Gujarat Titans",
+        "win_by_runs": 35,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "Shubman Gill"
+    },
+    {
+      "match_id": 1426298,
+      "date": "2024-05-11",
+      "venue": "Eden Gardens, Kolkata",
+      "teams": {
+        "home": "Kolkata Knight Riders",
+        "away": "Mumbai Indians"
+      },
+      "toss": {
+        "winner": "Mumbai Indians",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Kolkata Knight Riders",
+        "win_by_runs": 18,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "CV Varun"
+    },
+    {
+      "match_id": 1426299,
+      "date": "2024-05-12",
+      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "teams": {
+        "home": "Rajasthan Royals",
+        "away": "Chennai Super Kings"
+      },
+      "toss": {
+        "winner": "Rajasthan Royals",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Chennai Super Kings",
+        "win_by_runs": 0,
+        "win_by_wickets": 5
+      },
+      "player_of_match": "Simarjeet Singh"
+    },
+    {
+      "match_id": 1426300,
+      "date": "2024-05-12",
+      "venue": "M Chinnaswamy Stadium, Bengaluru",
+      "teams": {
+        "home": "Royal Challengers Bengaluru",
+        "away": "Delhi Capitals"
+      },
+      "toss": {
+        "winner": "Delhi Capitals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Royal Challengers Bengaluru",
+        "win_by_runs": 47,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "C Green"
+    },
+    {
+      "match_id": 1426302,
+      "date": "2024-05-14",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "teams": {
+        "home": "Delhi Capitals",
+        "away": "Lucknow Super Giants"
+      },
+      "toss": {
+        "winner": "Lucknow Super Giants",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Delhi Capitals",
+        "win_by_runs": 19,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "I Sharma"
+    },
+    {
+      "match_id": 1426303,
+      "date": "2024-05-15",
+      "venue": "Barsapara Cricket Stadium, Guwahati",
+      "teams": {
+        "home": "Rajasthan Royals",
+        "away": "Punjab Kings"
+      },
+      "toss": {
+        "winner": "Rajasthan Royals",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Punjab Kings",
+        "win_by_runs": 0,
+        "win_by_wickets": 5
+      },
+      "player_of_match": "SM Curran"
+    },
+    {
+      "match_id": 1426305,
+      "date": "2024-05-17",
+      "venue": "Wankhede Stadium, Mumbai",
+      "teams": {
+        "home": "Lucknow Super Giants",
+        "away": "Mumbai Indians"
+      },
+      "toss": {
+        "winner": "Mumbai Indians",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Lucknow Super Giants",
+        "win_by_runs": 18,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "N Pooran"
+    },
+    {
+      "match_id": 1426306,
+      "date": "2024-05-18",
+      "venue": "M Chinnaswamy Stadium, Bengaluru",
+      "teams": {
+        "home": "Royal Challengers Bengaluru",
+        "away": "Chennai Super Kings"
+      },
+      "toss": {
+        "winner": "Chennai Super Kings",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Royal Challengers Bengaluru",
+        "win_by_runs": 27,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "F du Plessis"
+    },
+    {
+      "match_id": 1426307,
+      "date": "2024-05-19",
+      "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+      "teams": {
+        "home": "Punjab Kings",
+        "away": "Sunrisers Hyderabad"
+      },
+      "toss": {
+        "winner": "Punjab Kings",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Sunrisers Hyderabad",
+        "win_by_runs": 0,
+        "win_by_wickets": 4
+      },
+      "player_of_match": "Abhishek Sharma"
+    },
+    {
+      "match_id": 1426309,
+      "date": "2024-05-21",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "teams": {
+        "home": "Sunrisers Hyderabad",
+        "away": "Kolkata Knight Riders"
+      },
+      "toss": {
+        "winner": "Sunrisers Hyderabad",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Kolkata Knight Riders",
+        "win_by_runs": 0,
+        "win_by_wickets": 8
+      },
+      "player_of_match": "MA Starc"
+    },
+    {
+      "match_id": 1426310,
+      "date": "2024-05-22",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "teams": {
+        "home": "Royal Challengers Bengaluru",
+        "away": "Rajasthan Royals"
+      },
+      "toss": {
+        "winner": "Rajasthan Royals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Rajasthan Royals",
+        "win_by_runs": 0,
+        "win_by_wickets": 4
+      },
+      "player_of_match": "R Ashwin"
+    },
+    {
+      "match_id": 1426311,
+      "date": "2024-05-24",
+      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "teams": {
+        "home": "Sunrisers Hyderabad",
+        "away": "Rajasthan Royals"
+      },
+      "toss": {
+        "winner": "Rajasthan Royals",
+        "decision": "field"
+      },
+      "result": {
+        "winner": "Sunrisers Hyderabad",
+        "win_by_runs": 36,
+        "win_by_wickets": 0
+      },
+      "player_of_match": "Shahbaz Ahmed"
+    },
+    {
+      "match_id": 1426312,
+      "date": "2024-05-26",
+      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "teams": {
+        "home": "Sunrisers Hyderabad",
+        "away": "Kolkata Knight Riders"
+      },
+      "toss": {
+        "winner": "Sunrisers Hyderabad",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "Kolkata Knight Riders",
+        "win_by_runs": 0,
+        "win_by_wickets": 8
+      },
+      "player_of_match": "MA Starc"
+    }
+  ]
+}
