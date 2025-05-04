@@ -4,9 +4,6 @@ import MatchCard from '../Components/MatchCard';
 
 const Matches = () => {
     
-    console.log(data);
-    debugger;
-    
   return (
     <div>
         {data.matches.map(match=>(
