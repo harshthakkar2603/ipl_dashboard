@@ -2,7 +2,7 @@
 import Link from 'next/link';
 import { FaFacebookF, FaInstagram, FaSearch } from 'react-icons/fa';
 import { FaXTwitter } from 'react-icons/fa6';
-import logo from './ipl-logo-new-old.jpg'
+import logo from '../Assets/ipl-logo-new-old.jpg'
 import Image from 'next/image';
 
 const navLinks = [
@@ -34,7 +34,7 @@ export default function Navbar() {
       </div>
 
       {/* Main Nav */}
-      <div className="sticky top-0 bg-[#1e3a8a] px-6 py-3 flex items-center justify-between shadow-md">
+      <div className="bg-[#1e3a8a] px-6 py-3 flex items-center justify-between shadow-md">
         <div className="flex items-center space-x-6">
           {navLinks.map((link, index) => (
             <Link key={index} href={`/${link.toLowerCase().replace(/ /g, '-')}`}>

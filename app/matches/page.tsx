@@ -1,5 +1,5 @@
 import React from 'react'
-import data from '../Components/ipl_matches_2008_clean.json'
+import data from '../Assets/ipl_matches_2008_clean.json'
 import MatchCard from '../Components/MatchCard';
 
 const Matches = () => {

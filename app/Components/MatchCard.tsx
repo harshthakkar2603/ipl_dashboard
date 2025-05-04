@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import React from 'react'
 import { FaTicketAlt } from "react-icons/fa";
+import teamLogo from '../Assets/tempLogo.png'
+import Image from 'next/image';
 
 type MatchCardProps ={
     matchDetails: any;
@@ -28,12 +30,16 @@ const MatchCard = ({matchDetails}:MatchCardProps) => {
 
         {/* Center */}
         <div className="flex flex-col items-center gap-1 flex-1 px-6">
-        <div className="text-sm text-gray-600">{matchDetails.venue}</div>
+        <div className="self-start pl-4 text-sm text-gray-600">{matchDetails.venue}</div>
         <div className="flex items-center gap-4 mt-1">
-            <div className="text-sm font-medium text-right w-40">{matchDetails.teams.home}</div>
-            <span className="text-gray-400 text-lg font-bold">VS</span>
-            <div className="text-sm font-medium w-40">{matchDetails.teams.away}</div>
+            <Image src={teamLogo} alt='' className='w-10 h-10 rounded-full'/>
+            <div className="text-base font-semibold px-2 text-right w-40">{matchDetails.teams.home}</div>
+            <span className="text-gray-400 text-lg font-bold">V/S</span>
+            <div className="text-base font-semibold px-2 w-40">{matchDetails.teams.away}</div>
+            <Image src={teamLogo} alt='' className='w-10 h-10 rounded-full'/>
         </div>
+        {matchDetails.result.win_by_runs!==0 &&<div className='flex text-sm italic items-center gap-1 flex-1'>{matchDetails.result.winner} won the match by {matchDetails.result.win_by_runs} runs</div>}
+        {matchDetails.result.win_by_wickets!==0 &&<div className='flex text-sm italic items-center gap-1 flex-1'>{matchDetails.result.winner} won the match by {matchDetails.result.win_by_wickets} wickets</div>}
         </div>
 
         {/* Right */}

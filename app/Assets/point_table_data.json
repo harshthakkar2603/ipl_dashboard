@@ -1,0 +1,94 @@
+{
+    "data": [
+    {
+      "teamName": "Kolkata Knight Riders",
+      "matches_played": 14,
+      "wins": 9,
+      "losses": 3,
+      "points": 20,
+      "nrr": "+1.428",
+      "last_5": ["NR", "W", "W", "W", "NR"]
+    },
+    {
+      "teamName": "Sunrisers Hyderabad",
+      "matches_played": 14,
+      "wins": 8,
+      "losses": 5,
+      "points": 17,
+      "nrr": "+0.414",
+      "last_5": ["W", "W", "W", "NR", "L"]
+    },
+    {
+      "teamName": "Rajasthan Royals",
+      "matches_played": 14,
+      "wins": 8,
+      "losses": 5,
+      "points": 17,
+      "nrr": "+0.273",
+      "last_5": ["W", "L", "W", "NR", "NR"]
+    },
+    {
+      "teamName": "Royal Challengers Bengaluru",
+      "matches_played": 14,
+      "wins": 7,
+      "losses": 7,
+      "points": 14,
+      "nrr": "+0.459",
+      "last_5": ["W", "W", "L", "W", "W"]
+    },
+    {
+      "teamName": "Chennai Super Kings",
+      "matches_played": 14,
+      "wins": 7,
+      "losses": 7,
+      "points": 14,
+      "nrr": "+0.392",
+      "last_5": ["L", "W", "L", "W", "L"]
+    },
+    {
+      "teamName": "Delhi Capitals",
+      "matches_played": 14,
+      "wins": 7,
+      "losses": 7,
+      "points": 14,
+      "nrr": "-0.377",
+      "last_5": ["W", "L", "W", "L", "W"]
+    },
+    {
+      "teamName": "Lucknow Super Giants",
+      "matches_played": 14,
+      "wins": 7,
+      "losses": 7,
+      "points": 14,
+      "nrr": "-0.667",
+      "last_5": ["L", "L", "W", "L", "W"]
+    },
+    {
+      "teamName": "Gujarat Titans",
+      "matches_played": 14,
+      "wins": 5,
+      "losses": 7,
+      "points": 12,
+      "nrr": "-1.063",
+      "last_5": ["L", "NR", "L", "W", "L"]
+    },
+    {
+      "teamName": "Punjab Kings",
+      "matches_played": 14,
+      "wins": 5,
+      "losses": 9,
+      "points": 10,
+      "nrr": "-0.353",
+      "last_5": ["W", "L", "W", "L", "W"]
+    },
+    {
+      "teamName": "Mumbai Indians",
+      "matches_played": 14,
+      "wins": 4,
+      "losses": 10,
+      "points": 8,
+      "nrr": "-0.318",
+      "last_5": ["L", "L", "W", "L", "L"]
+    }
+  ]
+}
