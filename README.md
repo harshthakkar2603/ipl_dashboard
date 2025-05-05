@@ -1,36 +1,112 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# IPL Dashboard
 
-## Getting Started
+A comprehensive dashboard application to view IPL updates, including live match scores, match history, fixtures, and the points table.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The IPL Dashboard is designed to provide cricket enthusiasts with real-time updates and detailed information about the Indian Premier League (IPL). Whether you're looking to catch up on live scores, review past matches, or check upcoming fixtures, this dashboard has you covered.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Features
 
-## Learn More
+- **Live Match Scores**: Stay updated with real-time scores of ongoing matches.
+- **Match History**: Browse through detailed information of past matches.
+- **Upcoming Fixtures**: Get information on upcoming matches and schedules.
+- **Points Table**: View the current standings of teams in the league.
 
-To learn more about Next.js, take a look at the following resources:
+## Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To set up the project locally:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. **Clone the repository**:
 
-## Deploy on Vercel
+   ```bash
+   git clone https://github.com/harshthakkar2603/ipl_dashboard.git
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. **Navigate to the project directory**:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   cd ipl_dashboard
+   ```
+
+3. **Install dependencies**:
+
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server**:
+
+   ```bash
+   npm run dev
+   ```
+
+   The application will run at `http://localhost:3000`.
+
+*Note: Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.*
+
+## Usage
+
+Once the application is running:
+
+- Navigate to the **Live Scores** section to view real-time match updates.
+- Visit the **Match History** to explore details of previous games.
+- Check the **Fixtures** tab for upcoming match schedules.
+- View the **Points Table** to see team rankings and points.
+
+## Technologies Used
+
+- **Frontend**: [Next.js](https://nextjs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **API Integration**: Using dummy data of IPL 2024
+
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
+
+3. Commit your changes:
+
+   ```bash
+   git commit -m 'Add some feature'
+   ```
+
+4. Push to the branch:
+
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
+
+5. Open a pull request.
+
+Please ensure your code adheres to the project's coding standards and includes relevant tests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries or feedback:
+
+- **Author**: Harsh Thakkar
+- **GitHub**: [@harshthakkar2603](https://github.com/harshthakkar2603)
+- **Email**: [thakkarharsh263@gmail.com](mailto:thakkarharsh263@gmail.com)
