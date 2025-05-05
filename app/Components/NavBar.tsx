@@ -36,11 +36,12 @@ export default function Navbar() {
       {/* Main Nav */}
       <div className="bg-[#1e3a8a] px-6 py-3 flex items-center justify-between shadow-md">
         <div className="flex items-center space-x-6">
-          {navLinks.map((link, index) => (
+            <Link href='/'>Home</Link>
+            {navLinks.map((link, index) => (
             <Link key={index} href={`/${link.toLowerCase().replace(/ /g, '-')}`}>
-              <span className="hover:underline underline-offset-4">{link}</span>
+                <span className="hover:underline underline-offset-4">{link}</span>
             </Link>
-          ))}
+            ))}
         </div>
         <div className="flex items-center space-x-4">
           <div className="text-orange-500 font-semibold">Fan Poll</div>
